@@ -2,6 +2,7 @@
 Portfolio-website
 
 Welcome to my portfolio website! This project showcases my skills, projects, and experiences as a B.Tech student specializing in AI, Machine Learning, and Web Development. This portfolio is designed to highlight my proficiency in front-end and back-end development, with a focus on creating engaging and responsive web applications.
+
 ![Screenshot_29-11-2024_20547_](https://github.com/user-attachments/assets/908adefc-50d1-4fb1-9f14-d730d78ee965)
 
 
