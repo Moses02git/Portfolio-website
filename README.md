@@ -1,4 +1,4 @@
-# Portfolio-website
+-# Portfolio-website
 Portfolio-website
 
 Welcome to my portfolio website! This project showcases my skills, projects, and experiences as a B.Tech student specializing in AI, Machine Learning, and Web Development. This portfolio is designed to highlight my proficiency in front-end and back-end development, with a focus on creating engaging and responsive web applications.
@@ -48,7 +48,7 @@ Feel free to reach out for collaboration opportunities or any questions:
 
 - **Email**: [mosespraisy0001@gmail.com](mailto:mosespraisy0001@gmail.com)
 - **Phone**: +91 9494248056
-WebPage link: file:///C:/Users/Moses/Downloads/protfolio-website/index.html
+- WebPage link: file:///C:/Users/Moses/Downloads/protfolio-website/index.html
 ---
 
 Thank you for visiting my portfolio! I look forward to connecting with you and exploring new opportunities.
