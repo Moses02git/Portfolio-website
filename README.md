@@ -12,8 +12,6 @@ Welcome to my portfolio website! This project showcases my skills, projects, and
 - [Technologies Used](#technologies-used)
 - [Projects](#projects)
 - [Features](#features)
-- [Future Enhancements](#future-enhancements)
-- [License](#license)
 - [Contact](#contact)
 
 ## About Me
