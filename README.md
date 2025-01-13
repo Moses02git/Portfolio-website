@@ -33,7 +33,6 @@ I am Moses Praisy, a passionate B.Tech student focusing on Data Science, AI, and
 ### 2. **Student Portfolio Website**
 - **Description**: Developed a personal portfolio website to showcase my skills, projects, and professional achievements. This project emphasizes responsive design and seamless navigation.
 - **Technologies Used**: HTML, CSS, JavaScript
-- **GitHub Repository**: [Portfolio Website]([https://github.com/Moses02git])
 
 ## Features
 - **Responsive Design**: The website is fully responsive, ensuring a seamless experience across devices of all sizes.
